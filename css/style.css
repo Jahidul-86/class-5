@@ -1,0 +1,35 @@
+#text {
+    color: rgb(23, 204, 68);
+    font-size: 50px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+background: #232323;
+text-shadow: 0 0 5px #FFF,
+0 0 10px #FFF,
+0 0 15px #FFF,
+0 0 20px #49ff18,
+0 0 30px #49FF18,
+0 0 40px #49FF18,
+0 0 55px #49FF18,
+0 0 75px #49ff18;
+}
+
+h3{
+    color: #e03a1c;
+    font-size: 30px;
+    font-family: sans-serif;
+    background-color: #232323;
+    text-align: center;
+    text-shadow: color: #FFFFFF;
+    background: #b8b8b8;
+    text-shadow: 4px 3px 0 #7A7A7A;
+    color: #FFFFFF;
+}
+
+p{
+    width: 50%;
+    color: #FFF;
+    text-align: justify;
+    line-height: 1.3;
+    background-image: url(../Imaje/Dhaka_Chittagong_Highway.jpg) ;
+}
